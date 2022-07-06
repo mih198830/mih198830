@@ -1,5 +1,5 @@
-Hello, my name is Mikhail, i am Software Quality Assurance Test Engineer, my linkedin profile https://www.linkedin.com/in/mikhail-matskevich/
-
+Hello, my name is Mikhail, i am Software Quality Assurance Test Engineer
+<p>My <a target="_blank" href="https://www.linkedin.com/in/mikhail-matskevich/">Linkedin</a> profile <p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mih198830&show_icons=true&theme=algolia)](https://github.com/mih198830/github-readme-stats)
 
