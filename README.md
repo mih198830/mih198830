@@ -15,4 +15,4 @@ Student at QA Automation school <a target="_blank" href="https://qa.guru/en">qa.
 
 ⭐ API <a target="_blank" href="https://github.com/mih198830/reqres/tree/DemoWebShopModelsAndSpecifications">tests</a> for Reqres website
 
-⭐ Mobile <a target="_blank" href="https://github.com/mih198830/QAGuru13MobileTest/tree/main/src">tests</a> Autotests for Wikipedia android app
+⭐ Mobile <a target="_blank" href="https://github.com/mih198830/QAGuru13MobileTest">tests</a> Autotests for Wikipedia android app
